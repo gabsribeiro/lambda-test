@@ -1,4 +1,4 @@
-name: AWS Lambda CI-CD
+name: AWS Lambda CI-CD Test
 on:
   push:
     branches: [ "main" ]
