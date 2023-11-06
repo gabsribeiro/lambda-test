@@ -12,7 +12,7 @@ def lambda_handler(event, context):
     width=event['width']
     
     area = calculate_area(length, width)
-    print(f"The area is {area}")
+    print(f"The area is testeeeeeeeeee {area}")
         
     logger.info(f"CloudWatch logs group: {context.log_group_name}")
     
