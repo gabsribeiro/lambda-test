@@ -1,4 +1,4 @@
-name: AWS Lambda Teste
+name: AWS Lambda Teste GitHub
 on:
   push:
     branches: [ "main" ]
