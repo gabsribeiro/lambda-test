@@ -28,4 +28,4 @@ jobs:
             aws-region: us-east-1
         
         - name: Using AWS Lambda
-          run: aws lambda update-function-code \ --function-name  teste \ --zip-file fileb://teste.zip
+          run: aws lambda update-function-code \ --function-name teste \ --zip-file fileb://teste.zip
